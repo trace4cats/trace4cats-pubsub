@@ -6,7 +6,7 @@ pull_request_rules:
           - author=trace4cats-steward[bot]
     actions:
       request_reviews:
-        users: [ janstenpickle, catostrophe ]
+        users: [ janstenpickle, Oliver-Taylor ]
       label:
         add: [ dependency-update ]
 

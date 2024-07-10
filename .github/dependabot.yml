@@ -6,7 +6,7 @@ updates:
       interval: "daily"
     reviewers:
       - "janstenpickle"
-      - "catostrophe"
+      - "Oliver-Taylor"
     labels:
       - "dependency-update"
     ignore:
